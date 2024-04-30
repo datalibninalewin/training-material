@@ -54,7 +54,7 @@ This tutorial is a short introduction to the FAIR data management framework. You
 {: .agenda}
 
 # Data management planning
-In recent years we have notice a data explosion. Number of sequence records in each release of [GenBank](https://www.ncbi.nlm.nih.gov/genbank/statistics/), from 1982 to the present, doubled in size approximately every 18 months. Great amounts of data available followed by expanding range of tools and computational solutions result in reproducibility crisis. Having **data management plan (DMP)** in place is essential to achieve FAIR data management. DMPs are often described as living documents and should be updated according to changing circumstances.
+In recent years we have notice a data explosion. Number of sequence records in each release of [GenBank](https://www.ncbi.nlm.nih.gov/genbank/statistics/), from 1982 to the present, doubled in size approximately every 18 months. Great amounts of data available followed by expanding range of tools and computational solutions result in reproducibility crisis. There are also vastly increased threats to data privacy and security which affect human subject data.  Having **data management plan (DMP)** in place is essential to achieve FAIR data management. DMPs are often described as living documents and should be updated according to changing circumstances.
 
 There are several ways to set up FAIR (Findable, Accessible, Interoperable, Reusable) data management plans (DMPs) :
   - Findable (F): Data description and collection or reuse of existing data
@@ -65,7 +65,7 @@ There are several ways to set up FAIR (Findable, Accessible, Interoperable, Reus
 ## Data description and collection or reuse of existing data
 Reusing legacy datasets from institutional repositories or the digital libraries data collections can be FAIRified retrospectively. Support for data collection and development, throughout the life cycle can be provided and followed by change management and capacity improvement.
 
-Multi-part FAIR research need a way of wrapping up, describing and sharing to promote the reuse of data. **Data sharing agreements** define the purpose of data sharing. Reference roles and responsibilities; specifies the purpose and legal requirements, e.g. for data security.
+Multi-part FAIR research need a way of wrapping up, describing and sharing to promote the reuse of data. **Data sharing agreements** which are standardised define the purpose of data sharing. Reference roles and responsibilities; specifies the purpose and legal requirements, e.g. for data security.
 
 An institutional aim should be to create an integrated view and context over fragmented resources using their **persistent identifiers (PIDs)** and **metadata**. To make datasets findable, these metadata need to be as widely available as possible.
 
